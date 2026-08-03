@@ -11,15 +11,15 @@ This project demonstrates a **Client-Side DOM Manipulation Simulation** and an a
 
 ### 1. Client-Side DOM & UI Manipulation Simulation
 Demonstration of temporary client-side layout and style overrides executed via DevTools to simulate interface response testing.
-![Defacement PoC](./defacement-poc.jpg)
+![Defacement PoC](./defacement-poc.jpg.png)
 
 ### 2. OWASP ZAP Vulnerability Scanning Results
 Automated security assessment highlighting missing security headers and configuration risks.
-![ZAP Scan](./zap-scan.jpg)
+![ZAP Scan](./zap-scan.jpg.png)
 
 ### 3. Intercepted Authentication Request
 Inspection of HTTP POST requests and parameter handling captured using OWASP ZAP proxy.
-![ZAP Request](./zap-request.jpg)
+![ZAP Request](./zap-request.jpg.png)
 
 ---
 
